@@ -20,10 +20,13 @@
   <a href="https://discord.gg/8hhhcncq">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Discord_logo.png/600px-Discord_logo.png" alt="VanderisDiscord" width="70px"/>
   </a>
-  </div>
+ </div>
+ <div align="center">
+   __________
     <p align="center">Main gmail: thanhphugo2510@gmail.com </p>
     <p align="center">Secondary gmail: thanhphulol2510@gmail.com </p>
-
+   __________
+ </div>
 <h2 align="center">My Main Language</h2>
 <div align="center">
   ______
