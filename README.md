@@ -2,11 +2,24 @@
 <p align="center"><ins>Nick name:</ins> Thanh Phú (Hestia)</p>
 <p align="center">
   __________
-  <a href="https://facebook.com/thanhphu.hestia">
     <img src="https://scontent.fvca4-1.fna.fbcdn.net/v/t39.30808-1/420214072_1360101087984230_6110862331740329461_n.jpg?stp=dst-jpg_p160x160&_nc_cat=105&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeHAv1JhlwRx0ExZ9tKE64cnwNcKgbCv2qnA1wqBsK_aqa_2A1bqfVeWcDAsyIcU9imXdkD67ORkNC6y5GHv4lbH&_nc_ohc=VjIbmR9fsmQAX98el2q&_nc_ht=scontent.fvca4-1.fna&oh=00_AfASd8Mlgw8FPOjhpI1ZJDnGLyfQKR1i98av0FKQMn-6JA&oe=65BD7D32" alt="Thanh Phú" width="100px"/>
-  </a>
   __________
 </p>
+<div align="center">
+   __________
+  <a href="https://www.facebook.com/thanhphu.hestia">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/480px-Facebook_Logo_%282019%29.png" alt="Vanderis" width="100px"/>
+  </a>
+  __________
+  <a href="https://www.instagram.com/t_phus25/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Vanderis" width="100px"/>
+  </a>
+  __________
+  <a href="https://discord.gg/8hhhcncq">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Discord_logo.png/600px-Discord_logo.png" alt="VanderisDiscord" width="100px"/>
+  </a>
+  __________
+</div>
   ________
 </div>
 <h2 align="center">My Main Language</h2>
