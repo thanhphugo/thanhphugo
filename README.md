@@ -1,7 +1,7 @@
 <h1 align="center">About Me</h1>
 <p align="center"><ins>Nick name:</ins> Thanh Phú (Hestia)</p>
 <p align="center">
-  __________
+
     <img src="https://scontent.fvca4-1.fna.fbcdn.net/v/t39.30808-1/420214072_1360101087984230_6110862331740329461_n.jpg?stp=dst-jpg_p160x160&_nc_cat=105&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeHAv1JhlwRx0ExZ9tKE64cnwNcKgbCv2qnA1wqBsK_aqa_2A1bqfVeWcDAsyIcU9imXdkD67ORkNC6y5GHv4lbH&_nc_ohc=VjIbmR9fsmQAX98el2q&_nc_ht=scontent.fvca4-1.fna&oh=00_AfASd8Mlgw8FPOjhpI1ZJDnGLyfQKR1i98av0FKQMn-6JA&oe=65BD7D32" alt="Thanh Phú" width="100px"/>
   __________
 </p>
@@ -22,7 +22,7 @@
   </a>
   __________
 </div>
-  ________
+
 </div>
 <h2 align="center">My Main Language</h2>
 <div align="center">
