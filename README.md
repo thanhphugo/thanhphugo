@@ -22,7 +22,6 @@
   </a>
   __________
  
-    <p>Contact with me:</p>
     <p>Main gmail: thanhphugo2510@gmail.com </p>
     <p>Secondary gmail: thanhphulol2510@gmail.com </p>
   __________
