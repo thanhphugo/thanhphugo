@@ -20,6 +20,7 @@
   <a href="https://discord.gg/8hhhcncq">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Discord_logo.png/600px-Discord_logo.png" alt="VanderisDiscord" width="70px"/>
   </a>
+    __________
  </div>
  <div align="center">
    <p></p>
