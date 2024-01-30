@@ -22,7 +22,7 @@
   </a>
  </div>
  <div align="center">
-   __________
+   <p></p>
     <p align="center">Main gmail: thanhphugo2510@gmail.com </p>
     <p align="center">Secondary gmail: thanhphulol2510@gmail.com </p>
    __________
