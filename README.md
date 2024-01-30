@@ -21,9 +21,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Discord_logo.png/600px-Discord_logo.png" alt="VanderisDiscord" width="100px"/>
   </a>
   __________
- 
- <p>Main gmail: thanhphugo2510@gmail.com </p>
- <p>Secondary gmail: thanhphulol2510@gmail.com </p>
+ <div align="center">
+    <p>Main gmail: thanhphugo2510@gmail.com </p>
+    <p>Secondary gmail: thanhphulol2510@gmail.com </p>
+ </div>
   __________
 </div>
 
