@@ -17,7 +17,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Vanderis" width="70px"/>
   </a>
   __________
-  <a href="https://discord.gg/8hhhcncq">
+  <a href="https://discord.gg/kJ8MTRjRB4">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Discord_logo.png/600px-Discord_logo.png" alt="VanderisDiscord" width="70px"/>
   </a>
     __________
