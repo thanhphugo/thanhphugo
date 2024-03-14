@@ -18,7 +18,7 @@
   </a>
   __________
   <a href="https://discord.gg/kJ8MTRjRB4">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Discord_logo.png/600px-Discord_logo.png"  width="70px"/>
+    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"  width="70px"/>
   </a>
     __________
  </div>
