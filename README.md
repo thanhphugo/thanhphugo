@@ -10,15 +10,15 @@
 <div align="center">
    __________
   <a href="https://www.facebook.com/thanhphu.hestia">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/480px-Facebook_Logo_%282019%29.png" alt="Vanderis" width="70px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/480px-Facebook_Logo_%282019%29.png"  width="70px"/>
   </a>
   __________
   <a href="https://www.instagram.com/t_phus25/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Vanderis" width="70px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="70px"/>
   </a>
   __________
   <a href="https://discord.gg/kJ8MTRjRB4">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Discord_logo.png/600px-Discord_logo.png" alt="VanderisDiscord" width="70px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Discord_logo.png/600px-Discord_logo.png"  width="70px"/>
   </a>
     __________
  </div>
