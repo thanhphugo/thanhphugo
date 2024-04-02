@@ -13,7 +13,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/480px-Facebook_Logo_%282019%29.png"  width="70px"/>
   </a>
   __________
-  <a href="https://www.instagram.com/t_phus25/">
+  <a href="https://www.instagram.com/hestia_p25/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="70px"/>
   </a>
   __________
